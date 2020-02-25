@@ -1,0 +1,8 @@
+<div>
+	CUSTOM PRODUCT PAGE <br/>
+	PRODUCT DATA :: <br/>
+	Product name : ${pdict.name} <br/>
+	Product description: ${pdict.shortDescription} <br/>
+	Custom attribute: ${pdict.c_attribute} <br/>
+	Custom Object name: ${pdict.c_name}
+</div>

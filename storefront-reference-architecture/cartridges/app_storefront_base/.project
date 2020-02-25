@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>app_storefront_base</name>
+	<comment></comment>
+	<projects>
+		<project>bm_app_storefront_base</project>
+		<project>DigitalServer</project>
+		<project>modules</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.demandware.studio.core.beehiveElementBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.demandware.studio.core.beehiveNature</nature>
+	</natures>
+</projectDescription>
